@@ -1,0 +1,19 @@
+.banner{
+   background-color:green;
+   width:1510px;
+   height:70px;
+
+
+}
+
+.banner-text{
+font-family:caliber;
+left:50%;
+position:absolute;
+}
+
+.task{
+font-family:algerian;
+}
+
+
